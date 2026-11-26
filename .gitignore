@@ -1,0 +1,8 @@
+matrix
+matrix.exe
+*.o
+perf.data
+perf.data.old
+__pycache__/
+.venv/
+.vscode/
